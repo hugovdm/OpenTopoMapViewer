@@ -9,11 +9,11 @@ OpenTopoMap viewer for Android
 - Lonvia hiking routes
 - Lonvia cycling routes
 
-![Wageningen](screen_wag.png "Wageningen") ![WUR](screen_wur.png "WUR")
+![Wageningen](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_wag.png "Wageningen") ![WUR](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_wur.png "WUR")
 
-![GPX](screen_dopplersteig.png "GPX") ![POI](screen_dopplersteig_poi.png "POI")
+![GPX](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig.png "GPX") ![POI](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig_poi.png "POI")
 
-![GPX](screen_dopplersteig_gpx_detail.png "GPX")
+![GPX](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig_gpx_detail.png "GPX")
 
 <a href="https://f-droid.org/packages/org.nitri.opentopo">
     <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
