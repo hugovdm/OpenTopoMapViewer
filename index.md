@@ -12,7 +12,7 @@ OpenTopoMap viewer for Android
 ![Wageningen](https://raw.githubusercontent.com/Pygmalion69/OpenTopoMapViewer/master/screen_wag.png "Wageningen") 
 ![WUR](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_wur.png "WUR")
 
-![GPX](https://github.com//Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig.png "GPX") 
+![GPX](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig.png "GPX") 
 ![POI](https://github.com/Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig_poi.png "POI")
 
 ![GPX](https://github.com//Pygmalion69/OpenTopoMapViewer/blob/master/screen_dopplersteig_gpx_detail.png "GPX")
