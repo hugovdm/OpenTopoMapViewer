@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# OpenTopoMapViewer
 
-You can use the [editor on GitHub](https://github.com/Pygmalion69/OpenTopoMapViewer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+OpenTopoMap viewer for Android
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![GitHub Release](https://img.shields.io/github/release/Pygmalion69/OpenTopoMapViewer.svg?logo=github)](https://github.com/Pygmalion69/OpenTopoMapViewer/releases) [![Build Status](https://travis-ci.org/Pygmalion69/OpenTopoMapViewer.svg?branch=master)](https://travis-ci.org/Pygmalion69/OpenTopoMapViewer)
 
-### Markdown
+- Follow location
+- Import GPX
+- Lonvia hiking routes
+- Lonvia cycling routes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Wageningen](screen_wag.png "Wageningen") ![WUR](screen_wur.png "WUR")
 
-```markdown
-Syntax highlighted code block
+![GPX](screen_dopplersteig.png "GPX") ![POI](screen_dopplersteig_poi.png "POI")
 
-# Header 1
-## Header 2
-### Header 3
+![GPX](screen_dopplersteig_gpx_detail.png "GPX")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pygmalion69/OpenTopoMapViewer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://f-droid.org/packages/org.nitri.opentopo">
+    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+    alt="Get it on F-Droid"
+    height="80"/></a>
