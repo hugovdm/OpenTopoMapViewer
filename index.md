@@ -2,20 +2,18 @@
 
 OpenTopoMap viewer for Android
 
-[![GitHub Release](https://img.shields.io/github/release/Pygmalion69/OpenTopoMapViewer.svg?logo=github)](https://github.com/Pygmalion69/OpenTopoMapViewer/releases) [![Build Status](https://travis-ci.org/Pygmalion69/OpenTopoMapViewer.svg?branch=master)](https://travis-ci.org/Pygmalion69/OpenTopoMapViewer)
+[![GitHub Release](https://img.shields.io/github/release/Pygmalion69/OpenTopoMapViewer.svg?logo=github)](https://github.com/Pygmalion69/OpenTopoMapViewer/releases) [![Build Status](https://travis-ci.com/Pygmalion69/OpenTopoMapViewer.svg?branch=master)](https://travis-ci.com/Pygmalion69/OpenTopoMapViewer)
 
 - Follow location
 - Import GPX
 - Lonvia hiking routes
 - Lonvia cycling routes
 
-![Wageningen](https://raw.githubusercontent.com/Pygmalion69/OpenTopoMapViewer/master/screen_wag.png "Wageningen") 
-![WUR](https://raw.githubusercontent.com/Pygmalion69/OpenTopoMapViewer/master/screen_wur.png "WUR")
+[![Android OpenTopoMap Viewer](https://yt-embed.herokuapp.com/embed?v=T-vn2scux9A)](https://www.youtube.com/watch?v=T-vn2scux9A "Android OpenTopoMap Viewer")
 
-![GPX](https://raw.githubusercontent.com/Pygmalion69/OpenTopoMapViewer/master/screen_dopplersteig.png "GPX") 
-![POI](https://raw.githubusercontent.com/Pygmalion69/OpenTopoMapViewer/master/screen_dopplersteig_poi.png "POI")
+[![Android OpenTopoMap Viewer Follow Me](https://yt-embed.herokuapp.com/embed?v=WlRdNTdJ4wg)](https://www.youtube.com/watch?v=WlRdNTdJ4wg "Android OpenTopoMap Viewer Follow Me")
 
-![GPX](https://raw.githubusercontent.com/Pygmalion69/OpenTopoMapViewer/master/screen_dopplersteig_gpx_detail.png "GPX")
+[![Android OpenTopoMap Viewer Nearby Pages](https://yt-embed.herokuapp.com/embed?v=TUCoFF8RrHU)](https://www.youtube.com/watch?v=TUCoFF8RrHU "Android OpenTopoMap Viewer Nearby Pages")
 
 <a href="https://f-droid.org/packages/org.nitri.opentopo">
     <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
